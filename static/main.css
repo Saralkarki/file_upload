@@ -1,0 +1,13 @@
+#font_link
+{
+    color: #5995ED;
+}
+#button_color
+{
+    background:#0C1012;
+    border: 0px solid  #0C1012;
+    width: 100px;
+}
+#button_color:hover{
+    background: #F3F7F9;
+}
